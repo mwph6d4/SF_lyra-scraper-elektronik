@@ -1,34 +1,22 @@
-# Shadcn/Vue Landing Page Template
+# Web Aplikasi Pembanding Harga Elektronik
 
-## <a href="https://www.shadcn-vue.com/" target="_blank">Shadcn-Vue</a> + <a href="https://vuejs.org/" target="_blank">Vue.js</a> + <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a> + <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>.
+Aplikasi web ini dibuat untuk membandingkan harga Elektronik. Tujuannya adalah menampilkan daftar produk secara cepat dan interaktif melalui antarmuka berbasis Vue.js, dengan backend Python dan sistem login menggunakan Flask.
 
-![Alt text](./public/demo-img.jpg)
-Live demo is now available: <a href="https://shadcn-vue-landing-page.vercel.app" target="_blank">Live Demo</a>
+## 🚀 Cara Menjalankan Project
 
-## Sections
-
-- [x] Navbar
-- [x] Sidebar(mobile)
-- [x] Hero
-- [x] Sponsors
-- [x] Benefits
-- [x] Features
-- [x] Services
-- [x] HowItWorks
-- [x] Testimonials
-- [x] Pricing
-- [x] Frequently Asked Questions(FAQ)
-- [x] Team
-- [x] Community
-- [x] Contact
-- [x] Footer
-
-## Features
-
-- [x] Fully Responsive Design
-- [x] User Friendly Navigation
-- [x] Dark Mode
-- [x] Meta tags
+Pastikan sudah menginstall :
+- Vue 3 dengan Composition API + TypeScript :
+**npm install vue**
+**npm install --save-dev typescript**
+- Vue Router :
+**npm install vue-router**
+- Axios (Untuk HTTP request ke backend API) :
+**npm install axios**
+- SweetAlert2 :
+**npm install sweetalert2**
+- Tailwind CSS :
+**npm install -D tailwindcss postcss autoprefixer**
+**npx tailwindcss init -p**
 
 ## How to install
 
